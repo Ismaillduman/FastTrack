@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -31,7 +34,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="ismail" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -171,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664838686387</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="LastNavi">
+      <created>1664840363996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664840363996</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +195,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="ismail" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -201,6 +211,7 @@
     <MESSAGE value="SeleniumDay1" />
     <MESSAGE value="SeleniumMethod" />
     <MESSAGE value="SeleniumMethods" />
-    <option name="LAST_COMMIT_MESSAGE" value="SeleniumMethods" />
+    <MESSAGE value="LastNavi" />
+    <option name="LAST_COMMIT_MESSAGE" value="LastNavi" />
   </component>
 </project>
