@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e086203-0a4c-4359-bd4b-d9c3a9ea184d" name="Changes" comment="SeleniumMethods" />
+    <list default="true" id="9e086203-0a4c-4359-bd4b-d9c3a9ea184d" name="Changes" comment="SeleniumMethodNavig" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,8 +62,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="FastTrack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="FastTrack" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeleniumMethods" />
+        <item itemvalue="Application.SeleniumMethods" />
+        <item itemvalue="Application.SeleniumMethods" />
         <item itemvalue="Application.SeleniumMethods" />
         <item itemvalue="Application.SeleniumMethods" />
       </list>
