@@ -18,6 +18,7 @@ public class SeleniumMethods {
 
         System.out.println(driver.getTitle());
         System.out.println(driver.getCurrentUrl());
+        driver.navigate().to("https://medium.com/kodcular/polymorphism-nedir-a10070eafe67");
         driver.close();
     }
 >>>>>>> 8becd25 (SeleniumMethods)

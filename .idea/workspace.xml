@@ -23,6 +23,11 @@
         <option value="ismailD &lt;issmailduman@gmail.com&gt;" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -122,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664838091813</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="SeleniumMethods">
+      <created>1664838266633</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664838266633</updated>
+    </task>
+    <task id="LOCAL-00010" summary="SeleniumMethods">
+      <created>1664838444416</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664838444416</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,7 +149,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ismail" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -138,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SeleniumDay1" />
+    <MESSAGE value="SeleniumMethod" />
     <MESSAGE value="SeleniumMethods" />
     <option name="LAST_COMMIT_MESSAGE" value="SeleniumMethods" />
   </component>
