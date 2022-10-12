@@ -21,6 +21,12 @@ public class SeleniumLocators {
 
         WebElement name = driver.findElement(By.name("viewport"));
         System.out.println(name.getTagName());
+
+
+        WebElement className= driver.findElement(By.className("list-group"));
+        System.out.println(className.getTagName());
+
+
         driver.close();
 
 
