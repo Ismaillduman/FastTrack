@@ -19,7 +19,11 @@ public class SeleniumLocators {
 
         System.out.println(IdFlash.getTagName());
 
+        WebElement name = driver.findElement(By.name("viewport"));
+        System.out.println(name.getTagName());
         driver.close();
+
+
 
     }
 }
