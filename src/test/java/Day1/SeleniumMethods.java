@@ -25,7 +25,7 @@ public class SeleniumMethods {
         System.out.println(driver.getTitle());
         driver.navigate().refresh();
         System.out.println(driver.getTitle());
-
+ driver.close();
     }
 
 }
