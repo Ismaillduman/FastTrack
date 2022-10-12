@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9e086203-0a4c-4359-bd4b-d9c3a9ea184d" name="Changes" comment="LastNavi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day1/SeleniumMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day1/SeleniumMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day1/SeleniumMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day1/SeleniumMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ismail" />
+        <entry key="$PROJECT_DIR$" value="origin" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,19 +65,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="FastTrack" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="FastTrack" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664841057071</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="LastNavi">
+      <created>1665498937279</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665498937279</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,7 +200,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="Ismail3" />
                       </list>
                     </value>
                   </entry>

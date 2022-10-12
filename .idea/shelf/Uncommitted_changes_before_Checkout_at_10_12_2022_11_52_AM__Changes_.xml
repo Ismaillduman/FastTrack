@@ -1,0 +1,9 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_10_12_2022_11_52_AM_[Changes]" date="1665568335096" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_12_2022_11_52_AM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 10/12/2022 11:52 AM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/Day1/SeleniumMethods.class" />
+    <option name="AFTER_PATH" value="target/test-classes/Day1/SeleniumMethods.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_12_2022_11_52_AM_[Changes]/SeleniumMethods.class" />
+  </binary>
+</changelist>
