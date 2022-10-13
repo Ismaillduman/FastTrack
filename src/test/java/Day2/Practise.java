@@ -1,6 +1,7 @@
 package Day2;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -39,6 +40,18 @@ public class Practise {
         driver.get("https://www.google.de/?hl=de");
         WebElement TextArea = driver.findElement(By.cssSelector("input.gLFyf.gsfi"));
         System.out.println(TextArea.getTagName());
+        driver.close();
+    }
+    @Test
+    public void test3(){
+        driver.get("https://www.w3schools.com/");
+        WebElement learnText = driver.findElement(By.xpath("//h1[.='Learn to Code']"));
+        WebElement learnCssText = driver.findElement(By.cssSelector("h1.learntocodeh1"));
+        System.out.println(learnCssText.getText());
+        System.out.println(learnText.getText());
+    }
+    @After
+    public void after(){
         driver.close();
     }
 }
