@@ -9,6 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.util.List;
+
 public class Practise {
     WebDriver driver;
     @Before
@@ -49,6 +51,34 @@ public class Practise {
         WebElement learnCssText = driver.findElement(By.cssSelector("h1.learntocodeh1"));
         System.out.println(learnCssText.getText());
         System.out.println(learnText.getText());
+
+        WebElement rButton = driver.findElement(By.xpath("//h2[.='R']"));
+        System.out.println(rButton.getText());
+    }
+    @Test
+    public void test4(){
+        driver.get("https://www.ebay.de/deals");
+        List<WebElement> names = driver.findElements(By.xpath("//span[@itemprop=\"name\"]"));
+        List<WebElement> prices = driver.findElements(By.xpath("//span[@itemprop=\"price\"]"));
+        System.out.println(names.size());
+        System.out.println(prices.size());
+
+        for (int i = 0; i < prices.size(); i++) {
+            System.out.println(names.get(i).getText());
+
+            System.out.println(prices.get(i).getText());
+            System.out.println();
+        }
+
+//        for (WebElement NAME : names) {
+//            System.out.println("Company name:" +NAME.getText());
+//
+//
+//        }
+
+
+
+
     }
     @After
     public void after(){
